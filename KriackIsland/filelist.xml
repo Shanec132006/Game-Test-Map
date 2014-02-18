@@ -1,0 +1,6 @@
+<download name="KriackIsland" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="2790344" md5="297f99cd988fb900a2996c9509b39442"/>
+ </files>
+</download>
